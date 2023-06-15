@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uit5x6y21r5q5itb/branch/main?svg=true)](https://ci.appveyor.com/project/orlovaaa/ra-film/branch/main)
+### Ссылка на [GitHub Pages](https://orlovaaa.github.io/ra-film/)
